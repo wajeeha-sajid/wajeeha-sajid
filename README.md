@@ -18,7 +18,7 @@ I’m an Electrical and Computer Engineer with a growing interest in applying AI
 
 - **MS in Electrical and Computer Engineering**  
   *Air University, Pakistan*  
-  *CGPA: 3.64 | Thesis in Progress*
+  *CGPA: 3.64 *
 
 - **BS in Electrical Engineering**  
   *Graduated: 2021*

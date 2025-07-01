@@ -55,8 +55,10 @@ I’m an Electrical and Computer Engineer with a growing interest in applying AI
 
 ## 📁 Projects
 
+- 📈 [Tech Stock Price Forecasting using LSTM](https://github.com/wajeeha-sajid/Tech-Stock-prediction-LSTM)
 - 🌾 [Crop Yield Prediction ML & DL](https://github.com/wajeeha-sajid/crop-yield-prediction-ml-dl)
 - 🧠 [Tourism Hypotheses Validation ML](https://github.com/wajeeha-sajid/tourism-hypotheses-validation-ml)
+
 
 ---
 

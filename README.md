@@ -27,7 +27,7 @@ I’m an Electrical and Computer Engineer with a growing interest in applying AI
 
 ## 🧪 Research & Thesis
 
-- 🧬 **Thesis (In Progress)**  
+- 🧬 **Thesis**  
   *“Detection of Diseases Using Gene Expression Data with Deep Learning and Machine Learning Techniques”*  
   Focused on applying modern AI models to identify disease patterns from high-dimensional genetic datasets.
 
